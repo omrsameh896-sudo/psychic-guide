@@ -1,0 +1,41 @@
+body{
+    background-image: url(whatsapp-image-2025-10-14-at-8_41_05-am\ \(1\).jpg);
+    background-size: 100%;
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+nav .logo{
+    font-size: 30px;
+    background:linear-gradient(255,255,255,0.1);
+
+    text-decoration: none;
+    text-transform: uppercase;
+    position: relative;
+    top: -5px;
+}
+nav ul li{
+font-size: 20px;
+background-color:white ;
+text-decoration: none;
+text-transform: uppercase;
+display: inline-block;
+letter-spacing: 2px;
+margin: 0 6px;
+
+}
+.loge{
+  background-color: white;
+  font-size: 20px;
+text-decoration: none;
+text-transform: uppercase;
+}
+.shoes{
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}

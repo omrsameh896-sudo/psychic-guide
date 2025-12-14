@@ -1,0 +1,137 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+body{
+    background: rgb(27, 27, 27);
+}
+    
+.container{
+display: flex;
+justify-content: center;
+
+}
+.barca{
+background: white;
+width: 280px;
+height: 400px;
+margin: 10px;
+border-radius: 15px;
+border-radius: 15px 15px 0 0 ;
+}
+
+.card-image{
+    
+    height: 250px;
+    margin-bottom: 15px;
+    background-size: cover;
+    
+}
+.barca-1{
+    background-image: url(download.jpg);
+    background-size: cover;
+}
+.barca-2{
+    background-image: url(download\ \(1\).jpg);
+}
+.barca-3{
+    background-image: url(images.jpg);
+}
+.barca-4{
+    background-image: url(download\ \(2\).jpg);
+}
+.barca-5{
+    background-image: url(images\ \(4\).jpg);
+    
+    
+}
+.barca-6{
+    background-image: url(download\ \(4\).jpg);
+}
+.barca-7{
+    background-image: url(images\ \(5\).jpg);
+}
+.barca-8{
+    background-image: url(images\ \(6\).jpg);
+}
+.barca p{
+    padding:10px ;
+}
+.barca a{
+
+    background-color: black;
+    color: white;
+    padding:15px 20px ;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.barca:hover{
+    background-color:rgb(62, 62, 62) ;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+
+
+.barca-9{
+    background-image: url(download\ \(6\).jpg);
+}
+.barca-10{
+    background-image: url(images\ \(9\).jpg);
+}
+.barca-11{
+    background-image: url(images\ \(10\).jpg);
+}
+.barca-12{
+    background-image: url(download\ \(7\).jpg);
+background-position: -50px;
+}
+.barca-13{
+    background-image: url(download\ \(9\).jpg);
+    background-position: -140px;
+}
+.barca-14{
+    background-image: url(download\ \(10\).jpg);
+    background-position: -80px;
+}
+.barca-15{
+    background-image: url(download\ \(11\).jpg);
+    background-position: -80px;
+}
+.barca-16{
+    background-image: url(download\ \(12\).jpg);
+}
+.barca-18{
+    background-image: url(images\ \(16\).jpg);
+}
+.barca-19{
+    background-image: url(bata.jpg);
+}
+.barca-20{
+    background-image: url(images\ \(17\).jpg);
+
+}
+.barca-21{
+    background-image: url(download\ \(15\).jpg);
+}
+    
+.legend-1{
+    background-image: url(beba2\ \(3\).jpeg);
+    
+}
+.legend-2{
+    background-image: url(omar2.jpeg);
+      
+}
+.legend-3{
+    background-image: url(Cassidy-JohanCruyff.webp);
+}
+.legend-4{
+    background-image: url(download\ \(17\).jpg);
+}
+.legend-5{
+    background-image: url(download\ \(18\).jpg);
+}
