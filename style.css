@@ -1,6 +1,7 @@
 body{
     background-image: url(whatsapp-image-2025-10-14-at-8_41_05-am\ \(1\).jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 nav{
 display: flex;
