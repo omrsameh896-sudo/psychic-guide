@@ -10,6 +10,7 @@ body{
 .container{
 display: flex;
 justify-content: center;
+flex-wrap: wrap;
 
 }
 .barca{
@@ -134,4 +135,10 @@ background-position: -50px;
 }
 .legend-5{
     background-image: url(download\ \(18\).jpg);
+}
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* العناصر تحت بعض */
+        padding: 10px;
+    }
 }

@@ -39,3 +39,9 @@ text-transform: uppercase;
     text-decoration: none;
     text-transform: uppercase;
 }
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* العناصر تحت بعض */
+        padding: 10px;
+    }
+}
